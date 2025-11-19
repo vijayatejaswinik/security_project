@@ -1,0 +1,13 @@
+# Don't upload encryption key
+key.key
+
+# Don't upload encrypted report
+report.txt.enc
+
+# Don't upload generated reports
+report.txt
+decrypted_report.txt
+
+# Python cache folders
+__pycache__/
+*.pyc
